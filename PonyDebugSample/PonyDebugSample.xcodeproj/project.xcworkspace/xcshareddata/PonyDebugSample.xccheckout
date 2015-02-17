@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A356BE7-E80B-4834-B75E-67990D097409</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PonyDebugSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46FFF860D31D03786633E18A6F274EB2FD5BC8DE</key>
+		<string>https://github.com/shiratsu/TabSample2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PonyDebugSample/PonyDebugSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>46FFF860D31D03786633E18A6F274EB2FD5BC8DE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shiratsu/TabSample2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>46FFF860D31D03786633E18A6F274EB2FD5BC8DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46FFF860D31D03786633E18A6F274EB2FD5BC8DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TabSample2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
